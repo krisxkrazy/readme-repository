@@ -12,7 +12,7 @@
  
 ----------------------------------------------
 
-### <p align="center"> Hey there! I'm [Gaurav](https://octoprofile.vercel.app/user?id=thehackersbrain) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></p>
+### <p align="center"> Hey there! I'm [Kris](https://octoprofile.vercel.app/user?id=thehackersbrain) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></p>
 
 #### <p align="center"> &nbsp; 👨‍🎓 Hacker &nbsp; | &nbsp; Programmer &nbsp; | &nbsp; FreeLancer ✈ &nbsp; </p>
 
